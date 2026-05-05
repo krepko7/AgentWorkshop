@@ -1,0 +1,21 @@
+customer_id,customer_name,company_name,industry,company_size,country,state,city,signup_date,customer_segment
+1,Sarah Johnson,TechNova Solutions,Technology,Medium,United States,California,San Francisco,2023-01-15,Enterprise
+2,Michael Chen,DataStream Analytics,Healthcare,Small,United States,New York,New York,2023-02-20,SMB
+3,Emily Rodriguez,CloudFirst Inc,Finance,Large,United States,Texas,Austin,2023-03-10,Enterprise
+4,James Wilson,RetailEdge Systems,Retail,Medium,United Kingdom,England,London,2023-04-05,Mid-Market
+5,Aisha Patel,GreenTech Innovations,Energy,Small,Canada,Ontario,Toronto,2023-05-18,SMB
+6,Robert Kim,HealthBridge Corp,Healthcare,Large,United States,Massachusetts,Boston,2023-06-22,Enterprise
+7,Lisa Thompson,EduPath Learning,Education,Medium,Australia,New South Wales,Sydney,2023-07-30,Mid-Market
+8,David Nakamura,FinanceFlow Ltd,Finance,Small,United States,Illinois,Chicago,2023-08-14,SMB
+9,Maria Santos,LogiMove Transport,Logistics,Medium,Brazil,Sao Paulo,Sao Paulo,2023-09-01,Mid-Market
+10,Thomas Mueller,AutoDrive Systems,Automotive,Large,Germany,Bavaria,Munich,2023-10-12,Enterprise
+11,Jennifer Lee,MediaPulse Digital,Media,Small,United States,Washington,Seattle,2023-11-05,SMB
+12,Carlos Rivera,AgriSmart Solutions,Agriculture,Medium,Mexico,Jalisco,Guadalajara,2023-12-19,Mid-Market
+13,Anna Kowalski,CyberShield Security,Technology,Large,Poland,Masovia,Warsaw,2024-01-08,Enterprise
+14,Hassan Ali,BuildRight Construction,Construction,Medium,United Arab Emirates,Dubai,Dubai,2024-02-14,Mid-Market
+15,Sophie Martin,FoodChain Analytics,Food & Beverage,Small,France,Ile-de-France,Paris,2024-03-22,SMB
+16,Ryan O'Brien,TravelSphere Inc,Travel,Medium,Ireland,Leinster,Dublin,2024-04-10,Mid-Market
+17,Priya Sharma,PharmaCare Plus,Healthcare,Large,India,Maharashtra,Mumbai,2024-05-17,Enterprise
+18,William Chang,PropTech Dynamics,Real Estate,Small,Singapore,Central,Singapore,2024-06-03,SMB
+19,Elena Volkov,ManuTech Industries,Manufacturing,Large,United States,Michigan,Detroit,2024-07-28,Enterprise
+20,Daniel Okafor,PayNext Financial,Finance,Medium,Nigeria,Lagos,Lagos,2024-08-15,Mid-Market

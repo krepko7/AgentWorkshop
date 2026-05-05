@@ -1,0 +1,16 @@
+region_id,region_name,sub_region,country,currency,timezone,sales_territory,regional_manager
+1,North America,US West,United States,USD,PST,NAM-West,Sarah Mitchell
+2,North America,US East,United States,USD,EST,NAM-East,David Clark
+3,North America,US Central,United States,USD,CST,NAM-Central,Rachel Green
+4,North America,Canada,Canada,CAD,EST,NAM-Canada,Michael Torres
+5,Europe,Western Europe,United Kingdom,GBP,GMT,EMEA-West,James Whitfield
+6,Europe,Western Europe,France,EUR,CET,EMEA-West,James Whitfield
+7,Europe,Western Europe,Germany,EUR,CET,EMEA-West,James Whitfield
+8,Europe,Eastern Europe,Poland,PLN,CET,EMEA-East,Katarina Novak
+9,Asia Pacific,Southeast Asia,Singapore,SGD,SGT,APAC-South,Wei Lin
+10,Asia Pacific,South Asia,India,INR,IST,APAC-South,Wei Lin
+11,Asia Pacific,Oceania,Australia,AUD,AEST,APAC-Oceania,Chris Parker
+12,Latin America,South America,Brazil,BRL,BRT,LATAM,Carlos Mendez
+13,Latin America,Central America,Mexico,MXN,CST,LATAM,Carlos Mendez
+14,Middle East & Africa,Middle East,United Arab Emirates,AED,GST,MEA,Omar Hassan
+15,Middle East & Africa,West Africa,Nigeria,NGN,WAT,MEA,Omar Hassan

@@ -1,0 +1,13 @@
+product_id,product_name,product_category,product_tier,monthly_price,annual_price,max_users,storage_gb,api_calls_monthly,support_level
+1,Analytics Starter,Analytics,Basic,29.99,299.90,5,10,1000,Email
+2,Analytics Pro,Analytics,Professional,79.99,799.90,25,100,10000,Email & Chat
+3,Analytics Enterprise,Analytics,Enterprise,199.99,1999.90,Unlimited,500,100000,24/7 Priority
+4,Integration Hub Basic,Integration,Basic,49.99,499.90,10,25,5000,Email
+5,Integration Hub Pro,Integration,Professional,129.99,1299.90,50,250,50000,Email & Chat
+6,Integration Hub Enterprise,Integration,Enterprise,299.99,2999.90,Unlimited,1000,500000,24/7 Priority
+7,Security Shield Lite,Security,Basic,39.99,399.90,10,15,2000,Email
+8,Security Shield Pro,Security,Professional,99.99,999.90,50,150,25000,Email & Chat
+9,Security Shield Max,Security,Enterprise,249.99,2499.90,Unlimited,750,250000,24/7 Priority
+10,AI Assistant Basic,AI & Automation,Basic,59.99,599.90,5,20,3000,Email
+11,AI Assistant Pro,AI & Automation,Professional,149.99,1499.90,30,200,30000,Email & Chat
+12,AI Assistant Enterprise,AI & Automation,Enterprise,349.99,3499.90,Unlimited,1000,300000,24/7 Priority

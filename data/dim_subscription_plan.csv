@@ -1,0 +1,7 @@
+plan_id,plan_name,billing_frequency,contract_length_months,discount_percentage,auto_renewal,cancellation_policy,trial_days
+1,Monthly Flex,Monthly,1,0,No,Anytime,14
+2,Annual Standard,Annual,12,15,Yes,30-day notice,30
+3,Annual Premium,Annual,12,20,Yes,30-day notice,30
+4,Multi-Year Value,Annual,24,25,Yes,60-day notice,30
+5,Enterprise Custom,Annual,36,30,Yes,90-day notice,60
+6,Startup Special,Monthly,6,10,No,Anytime,30
