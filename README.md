@@ -232,7 +232,7 @@ This workshop content is provided for educational purposes.
    - **Visibility:** Public (or Private, depending on your preference)
    - Click **Create repository**
 
-2. Push the workshop files using Git:
+2. Push a new workshop set of files using Git:
 
    ```bash
    cd AgentWorkshop
@@ -244,7 +244,23 @@ This workshop content is provided for educational purposes.
    git push -u origin main
    ```
 
-3. Verify the repository contains:
+3. Push just new changes to GitHub:
+
+   See what changed
+
+   ```bash
+   git status
+   ```
+
+   Stage, commit and push everything:
+
+   ```bash
+   git add .
+   git commit -m "Describe what you changed"
+   git push
+   ```
+
+4. Verify the repository contains:
    ```
    AgentWorkshop/
    ├── README.md                      (this file)
