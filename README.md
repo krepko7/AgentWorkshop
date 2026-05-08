@@ -166,43 +166,6 @@ A hands-on workshop demonstrating how to build AI Agents using Microsoft Fabric 
 
 ---
 
-### Step 9: Push Assets to GitHub
-
-1. Create a new repository on GitHub:
-   - Go to [github.com/new](https://github.com/new)
-   - **Owner:** `krepko7`
-   - **Repository name:** `AgentWorkshop`
-   - **Description:** "Workshop: Building AI Agents with Microsoft Fabric and Foundry"
-   - **Visibility:** Public (or Private, depending on your preference)
-   - Click **Create repository**
-
-2. Push the workshop files using Git:
-   ```bash
-   cd AgentWorkshop
-   git init
-   git add .
-   git commit -m "Initial commit: Agent Workshop assets"
-   git branch -M main
-   git remote add origin https://github.com/krepko7/AgentWorkshop.git
-   git push -u origin main
-   ```
-
-3. Verify the repository contains:
-   ```
-   AgentWorkshop/
-   ├── README.md                      (this file)
-   ├── data_agent_instructions.md     (Fabric Data Agent configuration)
-   └── data/
-       ├── fact_subscriptions.csv     (fact table)
-       ├── dim_customer.csv           (customer dimension)
-       ├── dim_product.csv            (product dimension)
-       ├── dim_subscription_plan.csv  (subscription plan dimension)
-       ├── dim_region.csv             (region dimension)
-       └── dim_date.csv              (date dimension)
-   ```
-
----
-
 ## Data Model Overview
 
 This workshop uses a **star schema** representing a SaaS subscription analytics platform:
@@ -222,6 +185,7 @@ This workshop uses a **star schema** representing a SaaS subscription analytics 
 ```
 
 ### Key Metrics Available
+
 - **Revenue:** Total revenue, MRR, ARR
 - **Usage:** Seats purchased/active, API calls, storage
 - **Health:** NPS scores, churn status, support tickets
@@ -255,3 +219,41 @@ To avoid ongoing Azure charges after the workshop:
 ## License
 
 This workshop content is provided for educational purposes.
+
+---
+
+## Administration - Push Assets to GitHub
+
+1. Create a new repository on GitHub:
+   - Go to [github.com/new](https://github.com/new)
+   - **Owner:** `krepko7`
+   - **Repository name:** `AgentWorkshop`
+   - **Description:** "Workshop: Building AI Agents with Microsoft Fabric and Foundry"
+   - **Visibility:** Public (or Private, depending on your preference)
+   - Click **Create repository**
+
+2. Push the workshop files using Git:
+
+   ```bash
+   cd AgentWorkshop
+   git init
+   git add .
+   git commit -m "Initial commit: Agent Workshop assets"
+   git branch -M main
+   git remote add origin https://github.com/krepko7/AgentWorkshop.git
+   git push -u origin main
+   ```
+
+3. Verify the repository contains:
+   ```
+   AgentWorkshop/
+   ├── README.md                      (this file)
+   ├── data_agent_instructions.md     (Fabric Data Agent configuration)
+   └── data/
+       ├── fact_subscriptions.csv     (fact table)
+       ├── dim_customer.csv           (customer dimension)
+       ├── dim_product.csv            (product dimension)
+       ├── dim_subscription_plan.csv  (subscription plan dimension)
+       ├── dim_region.csv             (region dimension)
+       └── dim_date.csv              (date dimension)
+   ```
